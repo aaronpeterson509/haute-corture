@@ -1,0 +1,44 @@
+/*
+    Color Pallete
+    Primary Color: <li title="#ECEBE6" style="background:     #ECEBE6"></li>
+
+    Secondary Color: <li title="#E5CACC"                       style="background: #E5CACC"></li>
+
+    Tertiary Color: <li title="#E6C09E" style="background:     #E6C09E"></li>
+
+
+    Heading : font-family:
+    Body Copy: font-family:
+*/
+
+
+/* Global or Site Wide */
+body {
+    background: url("../img/ecailles.png");
+}
+
+
+/* Typography */
+h1, h2 {
+    color: #E6C09E;
+    text-transform: uppercase;
+    font-family: 'Old Standard TT', serif;
+}
+
+
+p, blockquote {
+    color: #E5CACC;
+    font-family: 'PT Serif', serif;
+}
+
+
+blockquote {
+    font-size: 3em;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Images */
+section img {
+   width: 100%;
+}
